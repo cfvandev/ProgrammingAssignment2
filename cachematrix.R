@@ -1,4 +1,4 @@
-# cfvandev 22/08/2014
+# cfvandev 22/02/2015
 # Caches the inverse of a matrix so that if the matrix does not change
 # the inverse can be looked up from the cache instead of re-calculated
 
